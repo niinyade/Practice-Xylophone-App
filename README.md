@@ -11,3 +11,25 @@ CHALLENGE ACOMPLISHED:
 º Next, figure out how to delay code execution by 0.2 seconds, so that when you press on one of the Xylophone buttons your code immediately print “Start” and then prints “End” after 0.2 seconds.
 
 º Finally, put it all together to achieve a goal. The goal is to dim the button that was pressed by 0.2 seconds and then make it go back to its original opacity to achieve the effect of an animated button press.
+
+Topics learnt:
+
+¬ How to play sound using AVFoundation and AVAudioPlayer.
+
+¬ Understand Apple documentation and how to use StackOverflow.
+
+¬ Functions and methods in Swift.
+
+¬ Data types.
+
+¬ Swift loops.
+
+¬ Variable scope.
+
+¬ The ViewController lifecycle.
+
+¬ Error handling in Swift.
+
+¬ Code refactoring.
+
+¬ Basic debugging.
